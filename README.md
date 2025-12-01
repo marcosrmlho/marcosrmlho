@@ -22,7 +22,8 @@
 
 ## 📂 Featured Projects
 - 🔗 [Kamikaze Radical](https://github.com/marcosrmlho/kamikaze_radical) — Website for selling travel packages.  
-- 🔗 [Infobac - Initial version](https://github.com/marcosrmlho/infobac) — Prototype website for bacteria analysis.  
+- 🔗 [Infobac - Initial version](https://github.com/marcosrmlho/infobac) — Prototype website for bacteria analysis.
+- 🔗 [Supermercados Alcateia](https://github.com/marcosrmlho/supermercadosAlcateia) — Supermarket management system.  
 
 ---
 
